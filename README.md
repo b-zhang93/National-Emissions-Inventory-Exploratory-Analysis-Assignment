@@ -1,7 +1,7 @@
 # National-Emissions-Inventory-Exploratory-Analysis-Assignment
-The final assignment for the Exploratory Data Analysis course on Coursera by John Hopkins University. Course 3 of 10 of the Data Science Specialization Track.
+**The final assignment for the Exploratory Data Analysis course on Coursera by John Hopkins University. Course 3 of 10 of the Data Science Specialization Track.**
 
-Instructions to reproduce analysis: Follow instructions below or fork repository and run the scripts. Datasets should be in the same directory. 
+**Instructions to reproduce analysis:** Follow the original assignment instructions below OR fork this repository and run the scripts to create the plots. Datasets are already in the same directory if forked.
 
 
 Introduction
